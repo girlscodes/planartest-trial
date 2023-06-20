@@ -1,0 +1,2 @@
+import{p as e,b as t}from"./p-6d0f40f3.js";export{s as setNonce}from"./p-6d0f40f3.js";const r=()=>{const t=import.meta.url;const r={};if(t!==""){r.resourcesUrl=new URL(".",t).href}return e(r)};r().then((e=>t([["p-2edb70e5",[[0,"component-game-planar",{player_id:[2],education:[1],sex:[2],birthYear:[2,"birth-year"],region:[2],customLang:[1,"custom-lang"],pause:[64],resume:[64],stop:[64],restart:[64]}]]]],e)));
+//# sourceMappingURL=planartest-game.esm.js.map

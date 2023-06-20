@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "./components/component-game-planar/component-game-planar.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "3.3.1",
+    "typescriptVersion": "5.0.4"
+  },
+  "collections": [],
+  "bundles": []
+}

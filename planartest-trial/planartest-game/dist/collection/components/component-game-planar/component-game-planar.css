@@ -1,0 +1,12 @@
+:host {
+  display: block;
+}
+body {
+  margin: 0px
+}
+.game-content {
+  height: 100%; 
+  width: 100%; 
+  padding: 0px; 
+  margin: 0px
+}
